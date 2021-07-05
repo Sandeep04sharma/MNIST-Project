@@ -1,5 +1,5 @@
 # MNIST-Project
-## Steps to be followed on MNIST dataset
+## Steps
 
 1. Introduction
 2. Data Exploration
