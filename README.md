@@ -2,6 +2,7 @@
 ## Steps
 
 1. Introduction
+
 2. Data Exploration
   *  Libraries used
   *  Reading data
@@ -17,6 +18,7 @@
 5. Evaluate Models
 * Cross Validation
 6. Hyperparameter Tuning
+
 7. Predict and Submit
   * Confusion Matrix
   * Precision, Recall and F1 Scores
